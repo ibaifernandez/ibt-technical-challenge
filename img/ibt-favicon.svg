@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.98 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #828282;
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 25.49px;
+        font-weight: 700;
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="22.98" cy="25.5" r="23"/>
+  <text class="cls-1" transform="translate(3.73 34.33)"><tspan x="0" y="0">IBT</tspan></text>
+</svg>

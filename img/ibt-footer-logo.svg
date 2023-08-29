@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.56 46">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 25.49px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #828282;
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-4" cx="23" cy="23" r="23"/>
+  <text class="cls-3" transform="translate(3.75 31.83)"><tspan x="0" y="0">IBT</tspan></text>
+  <text class="cls-2" transform="translate(50.42 31.83)"><tspan class="cls-5" x="0" y="0">MEDI</tspan><tspan class="cls-1" x="59.14" y="0">A</tspan></text>
+</svg>
